@@ -1,3 +1,6 @@
 node_modules
 dist
 .DS_Store
+database.db
+.svelte-kit
+build
